@@ -1,4 +1,5 @@
-plugins 
+#plugins 
+	```
 	jsontots
   		>>copy from postman (json)
 	        >>ctr+alt+v
@@ -21,8 +22,12 @@ plugins
 		>>state management
 	payu
 		>>payment gateway
-web:
+	```
+
+##web:
+	```
 	css3generator
 	Docker
 		>>Build, Share, and Run Any App, Anywhere (ci cd ct)
+	```
 
