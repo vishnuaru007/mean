@@ -1,0 +1,17 @@
+create foleders
+	server
+
+server
+	npm init
+	npm install
+        sudo npm install mysql express multer crypto-js
+	create files 	
+		server.js
+		util.js
+		db.js
+	create folders
+		routes/admin
+			user.js
+			movie.js
+		routes/portal
+
